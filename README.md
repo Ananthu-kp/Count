@@ -1,1 +1,1 @@
-# Count🙌
+Its just a counter!
